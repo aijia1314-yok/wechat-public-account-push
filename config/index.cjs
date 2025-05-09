@@ -23,9 +23,9 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oBF-67TPHmKuGV5OD6yLiK9zzUWo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'KTZ6FEnS7jR893A9Cbp1zW_-593oqG-JPqAwFgG5E3Q',
+      useTemplateId: 'XiyAtEgb0lxUmbhUk32s0ix2teqeGsEolDTE1o2R4uc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '7-20',
+      horoscopeDate: '07-20',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '生日', name: '嘉嘉', year: '2005', date: '07-20',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2024', date: '07-06',
+          type: '节日', name: '相识一年', year: '2024', date: '07-06',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
