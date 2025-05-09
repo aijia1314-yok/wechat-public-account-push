@@ -23,10 +23,10 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oBF-67TPHmKuGV5OD6yLiK9zzUWo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'xzz9oTAndmVhvVV5pxSt28N4zngcONuGV9ko8scDFNc',
+      useTemplateId: 'HnoDto5inZ8JpzRwlbM5i_WBC4u_EAlQNC8gmKUxxbs',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '07-20',
-      FESTIVALS: [
+      festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
           type: '*生日', name: '嘉嘉', year: '2005', date: '06-15',
